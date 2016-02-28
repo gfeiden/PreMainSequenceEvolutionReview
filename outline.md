@@ -1,18 +1,23 @@
-# Proposed Title
+# Pre-Main-Sequence Stellar Structure and Evolution
 
 1. Introduction / Motivation
-2. Historical Development 
+2. Protostars 
+3. Historical Development 
+  * Physical Principles
   * Analytical framework with polytropes
   * Hayashi + Henyey tracks
-3. Modern Development
+4. Modern Development
   * Stellar birthline
-4. Observational Constraints
-  * Color-magnitude diagram
-  * Hertzsprung-Russell diagram
-  * Mass-radius relationship
+  * Non-grey surface boundary conditions
+5. Observational Constraints
+  * Color-magnitude diagrams
+  * Hertzsprung-Russell diagrams
+  * Mass-radius relationships
   * Lithium
-5. Additional Physics
+6. Additional Physics
   * (Episodic) Accretion
   * Magnetic Fields & Activity
     * Magnetic inhibition of convection
     * Starspots
+  * Rotation
+7. Future Propectives
