@@ -33,9 +33,11 @@
     * Magnetic inhibition of convection
     * Starspots
   * Rotation
+  * Individual element abundance variations
 6. Future Propectives
   * Asteroseismology
   * 2D & 3D models
 
-A. Appendix 1: Compendium of stellar models
-B. Appendix 2: Compendium of homogeneous ages for young associations
+Appendicies
+1. Compendium of stellar models
+2. Compendium of homogeneous ages for young associations
