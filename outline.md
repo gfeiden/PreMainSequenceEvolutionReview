@@ -7,7 +7,7 @@
   * Henyey tracks (Henyey et al. 1955)
   * Hayashi tracks (Hayashi 1961)
   * Hydrogen burning limit (Kumar 1963)
-  * Detailed computational results (e.g., Iben 1965, Bodenheimer et al. 1965, and on)
+  * Detailed computational results (e.g., Iben 1965, Bodenheimer et al. 1965, up to present)
     * Intermediate-mass stars
     * Low-mass stars
     * Very-low-mass stars
