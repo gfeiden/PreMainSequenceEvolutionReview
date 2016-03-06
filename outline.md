@@ -18,16 +18,16 @@
     * Equation of State
     * Convection
     * Chemical Composition
-5. Observational Constraints
+4. Observational Constraints
   * Color-magnitude diagrams
   * Hertzsprung-Russell diagrams
   * Mass-radius relationships
   * Lithium
-6. Additional Physics
+5. Modern Developments (i.e., Non-standard physics)
   * (Episodic) Accretion
   * Magnetic Fields & Activity
     * Magnetic inhibition of convection
     * Starspots
   * Rotation
-7. Future Propectives
-  * Asteroseismology 
+6. Future Propectives
+  * Asteroseismology
