@@ -12,7 +12,7 @@
     * Low-mass stars
     * Very-low-mass stars
   * Uncertainties
-    * Stellar birthline
+    * Stellar birthline / Initial conditions
     * Surface boundary conditions
     * Nuclear reaction cross sections
     * Equation of State
@@ -31,3 +31,4 @@
   * Rotation
 6. Future Propectives
   * Asteroseismology
+  * 2D & 3D models
