@@ -14,11 +14,12 @@
   * Uncertainties
     * Stellar birthline / Initial conditions
     * Surface boundary conditions
+    * Radiative opacities
     * Nuclear reaction cross sections
     * Equation of State
     * Convection
     * Chemical Composition
-4. Observational Constraints & Age Estimates
+4. Observational Constraints
   * Color-magnitude diagrams
   * Hertzsprung-Russell diagrams
   * Mass-radius relationships
@@ -37,3 +38,4 @@
   * 2D & 3D models
 
 A. Appendix 1: Compendium of stellar models
+B. Appendix 2: Compendium of homogeneous ages for young associations
