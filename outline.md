@@ -38,6 +38,7 @@
   * Asteroseismology
   * 2D & 3D models
 
-Appendicies
+__Appendicies__
+
 1. Compendium of stellar models
 2. Compendium of homogeneous ages for young associations
